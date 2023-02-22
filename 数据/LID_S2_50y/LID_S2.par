@@ -1,0 +1,16 @@
+#  assess single LID-GR at small size 50y 
+
+resroot         LID_S2_240
+dirroot   LID_S2_res
+bcifile   Modelpoint.bci
+bdyfile           ./prepared_bdy/239step.bdy
+DEMfile    sa_2m.asc
+#nodata_elevation   -50
+manningfile   manninval_2.asc
+saveint   30
+massient   10
+sim_time   30.0
+initial_tstep   0.1
+acceleration
+startfile        1d2dcoupled.start
+elevoff

@@ -1,0 +1,2 @@
+Time         Tstep      MinTstep   NumTsteps    Area         Vol         Qin         Hds        Qout          Qerror       Verror       Rain-Inf+Evap
+0.100        0.1000     0.1000     1           6.5280e+003  4.6804e+002  1.602       0.000      0.000        8.4655e-017  8.4655e-015  0.0000e+000

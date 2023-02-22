@@ -1,0 +1,1801 @@
+comment line
+WS02003069
+1   seconds
+0.0   0
+
+WS02003072
+1   seconds
+0.0   0
+
+WS02003073
+1   seconds
+0.0   0
+
+WS02003060
+1   seconds
+0.0   0
+
+WS02003066
+1   seconds
+0.0   0
+
+WS02003115
+1   seconds
+0.0   0
+
+WS02003116
+1   seconds
+0.0   0
+
+WS02003118
+1   seconds
+0.0022352362799332613   0
+
+WS02003215
+1   seconds
+0.2263841041628653   0
+
+WS02003110
+1   seconds
+0.0   0
+
+WS02003111
+1   seconds
+0.16514635039843564   0
+
+WS02005155
+1   seconds
+0.0   0
+
+WS02005154
+1   seconds
+0.0   0
+
+WS02005193
+1   seconds
+0.0   0
+
+WS02005196
+1   seconds
+0.0   0
+
+WS02003067
+1   seconds
+0.0   0
+
+WS02004401
+1   seconds
+0.0   0
+
+WS02004402
+1   seconds
+0.0   0
+
+WS02004403
+1   seconds
+0.0   0
+
+WS02004404
+1   seconds
+0.0   0
+
+WS02004406
+1   seconds
+0.0   0
+
+WS02004409
+1   seconds
+-0.10213623651825018   0
+
+WS02004410
+1   seconds
+0.0   0
+
+WS02004411
+1   seconds
+0.0   0
+
+WS02004412
+1   seconds
+0.0   0
+
+WS02004413
+1   seconds
+0.0   0
+
+WS02004405
+1   seconds
+0.0   0
+
+WS02006109
+1   seconds
+0.08990332388948406   0
+
+WS02006110
+1   seconds
+0.0   0
+
+WS02006111
+1   seconds
+0.0   0
+
+WS02006112
+1   seconds
+0.02361283695530982   0
+
+WS02006113
+1   seconds
+0.0   0
+
+WS02006115
+1   seconds
+0.0   0
+
+WS02006116
+1   seconds
+0.0   0
+
+WS02006230
+1   seconds
+0.11434356193041029   0
+
+WS02006231
+1   seconds
+-0.06815292444029886   0
+
+WS02006232
+1   seconds
+0.0   0
+
+WS02006234
+1   seconds
+0.025674030239999958   0
+
+WS02006235
+1   seconds
+0.0   0
+
+WS02006238
+1   seconds
+0.0   0
+
+WS02006240
+1   seconds
+0.0   0
+
+WS02006242
+1   seconds
+0.02726045117126875   0
+
+WS02006243
+1   seconds
+0.0   0
+
+WS02006245
+1   seconds
+0.0   0
+
+WS02006247
+1   seconds
+0.0   0
+
+WS02006248
+1   seconds
+0.0677066228750437   0
+
+WS02006249
+1   seconds
+0.26348425495448724   0
+
+WS02006239
+1   seconds
+0.0   0
+
+WS02006251
+1   seconds
+0.0   0
+
+WS02006253
+1   seconds
+0.0   0
+
+WS02004407
+1   seconds
+-0.032650031208577124   0
+
+WS02006228
+1   seconds
+-0.21692376107179018   0
+
+WS02006229
+1   seconds
+-0.16233087989205908   0
+
+WS02006280
+1   seconds
+-0.04623619939605829   0
+
+WS02006284
+1   seconds
+0.0   0
+
+WS02006287
+1   seconds
+0.0   0
+
+WS02003091
+1   seconds
+-0.11037724823473911   0
+
+WS02003203
+1   seconds
+0.018197281931899963   0
+
+WS6145
+1   seconds
+-0.11868762601577196   0
+
+WS6147
+1   seconds
+-0.06471439862867931   0
+
+WS6150
+1   seconds
+0.0   0
+
+WS6152
+1   seconds
+0.0   0
+
+WS6155
+1   seconds
+0.0   0
+
+WS6156
+1   seconds
+0.0   0
+
+WS6136
+1   seconds
+0.009249728574082485   0
+
+WS6140
+1   seconds
+-0.0565515116679722   0
+
+WS6142
+1   seconds
+-0.09478957611257258   0
+
+WS6325
+1   seconds
+-0.05788231778269844   0
+
+WS6327
+1   seconds
+-0.08682347667404768   0
+
+WS6329
+1   seconds
+-0.0854978501697706   0
+
+WS6332
+1   seconds
+-0.1205969319903805   0
+
+WS6158
+1   seconds
+0.0   0
+
+WS6335
+1   seconds
+0.0   0
+
+WS6338
+1   seconds
+-0.06045610963191621   0
+
+WS6340
+1   seconds
+-0.02894115889134922   0
+
+WS6342
+1   seconds
+0.0   0
+
+WS6135
+1   seconds
+-0.017452175923688938   0
+
+WS6396
+1   seconds
+-0.10361655204339923   0
+
+WS6399
+1   seconds
+-0.05162423146050175   0
+
+WS02003082
+1   seconds
+0.0   0
+
+WS02003077
+1   seconds
+0.0   0
+
+WS02003080
+1   seconds
+0.0   0
+
+WS02003083
+1   seconds
+0.0   0
+
+WS02003084
+1   seconds
+0.0   0
+
+WS02003085
+1   seconds
+0.0   0
+
+WS02003086
+1   seconds
+0.0   0
+
+WS02003087
+1   seconds
+0.0   0
+
+WS02003088
+1   seconds
+-0.009448235080671118   0
+
+WS02003089
+1   seconds
+0.0   0
+
+WS02003090
+1   seconds
+-0.09110302968579362   0
+
+WS02003081
+1   seconds
+0.0   0
+
+WS02003122
+1   seconds
+0.0   0
+
+WS02003187
+1   seconds
+0.06445295671432638   0
+
+WS02003188
+1   seconds
+-0.07300768827852938   0
+
+WS02003190
+1   seconds
+0.12169942982754978   0
+
+WS02003193
+1   seconds
+0.18704205773447527   0
+
+WS02003195
+1   seconds
+0.0   0
+
+WS02003196
+1   seconds
+0.0   0
+
+WS02003198
+1   seconds
+0.0   0
+
+WS02003200
+1   seconds
+-0.08941579020509524   0
+
+WS02003201
+1   seconds
+0.10701694850980217   0
+
+WS02003202
+1   seconds
+0.0   0
+
+WSA6400
+1   seconds
+-0.03597273581391277   0
+
+WS6400
+1   seconds
+-0.047277436535884176   0
+
+WSF208
+1   seconds
+0.0   0
+
+WSF207
+1   seconds
+0.0   0
+
+WSF206
+1   seconds
+0.0   0
+
+WSF205
+1   seconds
+0.0   0
+
+WSF204
+1   seconds
+0.0   0
+
+WSF203
+1   seconds
+0.0   0
+
+WSF202
+1   seconds
+0.0   0
+
+WSF201
+1   seconds
+0.0   0
+
+WSF200
+1   seconds
+0.0   0
+
+HS02004901
+1   seconds
+0.053047401934955364   0
+
+HS02004881
+1   seconds
+0.0   0
+
+HS02004876
+1   seconds
+0.0   0
+
+HS02004870
+1   seconds
+0.0   0
+
+HS02004862
+1   seconds
+0.04234999604007915   0
+
+HS02004856
+1   seconds
+0.0   0
+
+HS02004852
+1   seconds
+0.0   0
+
+HS02004848
+1   seconds
+0.0   0
+
+HS02004842
+1   seconds
+0.05172161585395407   0
+
+HS02004837
+1   seconds
+0.0   0
+
+HS02004830
+1   seconds
+0.0   0
+
+HS02004824
+1   seconds
+0.050341756514590406   0
+
+HS02004817
+1   seconds
+0.0   0
+
+HS02004807
+1   seconds
+0.10529853465958698   0
+
+HS02004802
+1   seconds
+0.0   0
+
+HS02004788
+1   seconds
+0.0   0
+
+HS02004777
+1   seconds
+-0.06012819852260835   0
+
+HS02004770
+1   seconds
+0.34192627432093947   0
+
+HS02004480
+1   seconds
+-0.04380966350043315   0
+
+HS02004479
+1   seconds
+-0.06195622028531411   0
+
+HS02004478
+1   seconds
+-0.009448235080671118   0
+
+HS02004053
+1   seconds
+0.0   0
+
+HS02004052
+1   seconds
+-0.09305432294987227   0
+
+HS02004049
+1   seconds
+-0.08236780054251822   0
+
+HS02004048
+1   seconds
+0.1365266838617021   0
+
+HS02004046
+1   seconds
+0.0   0
+
+HS02004043
+1   seconds
+0.0   0
+
+HS02004041
+1   seconds
+0.0   0
+
+HS02004038
+1   seconds
+0.0   0
+
+HS02004036
+1   seconds
+0.0   0
+
+HS02004034
+1   seconds
+0.0   0
+
+HS02004028
+1   seconds
+0.049776447549255635   0
+
+HS02004027
+1   seconds
+-0.013634512440381986   0
+
+HS02004026
+1   seconds
+0.0   0
+
+HS02004024
+1   seconds
+0.0   0
+
+HS02004022
+1   seconds
+0.028380778670857615   0
+
+HS02004021
+1   seconds
+0.02964563532030583   0
+
+HS02004019
+1   seconds
+0.08467081967614962   0
+
+HS02004018
+1   seconds
+0.019293550773643163   0
+
+HS02004017
+1   seconds
+0.1447360407530056   0
+
+HS02004013
+1   seconds
+0.0   0
+
+HS02004010
+1   seconds
+0.0   0
+
+HS02003174
+1   seconds
+0.0   0
+
+HS02003171
+1   seconds
+0.0   0
+
+HS02003170
+1   seconds
+0.0   0
+
+HS02003168
+1   seconds
+0.0   0
+
+HS02003166
+1   seconds
+0.0   0
+
+HS02003162
+1   seconds
+0.0   0
+
+HS02003160
+1   seconds
+0.0   0
+
+HS02003150
+1   seconds
+-0.03895607134665803   0
+
+HS02003148
+1   seconds
+-0.013361822191574349   0
+
+HS02003145
+1   seconds
+0.08898477581880462   0
+
+HS02003143
+1   seconds
+0.2926178682448246   0
+
+HS02003138
+1   seconds
+-0.0798920768523825   0
+
+HS02003136
+1   seconds
+0.23925864909560263   0
+
+HS02003125
+1   seconds
+0.0   0
+
+HS02003122
+1   seconds
+0.0   0
+
+HS02003119
+1   seconds
+0.0   0
+
+HS02003116
+1   seconds
+0.0   0
+
+HS02003111
+1   seconds
+0.0   0
+
+HS02003108
+1   seconds
+0.0   0
+
+HS02003100
+1   seconds
+0.0   0
+
+HS02003088
+1   seconds
+0.0   0
+
+HS02003084
+1   seconds
+0.0   0
+
+HS02003079
+1   seconds
+0.0   0
+
+HS02003077
+1   seconds
+0.0   0
+
+HS02003065
+1   seconds
+-0.021126895169930538   0
+
+HS02003056
+1   seconds
+0.0   0
+
+HS02003053
+1   seconds
+0.0   0
+
+HS02003042
+1   seconds
+0.0   0
+
+HS02003039
+1   seconds
+0.0   0
+
+HS02003036
+1   seconds
+0.0   0
+
+HS02003028
+1   seconds
+0.04453219995945457   0
+
+HS02003021
+1   seconds
+-0.0365928558405012   0
+
+HS02003018
+1   seconds
+0.01171652072343989   0
+
+HS02003017
+1   seconds
+0.02337622329364527   0
+
+HS02003013
+1   seconds
+-0.03471503200206201   0
+
+HS02003010
+1   seconds
+-0.011571677234233965   0
+
+HS02003007
+1   seconds
+0.0   0
+
+HS02003004
+1   seconds
+0.0   0
+
+HS02003001
+1   seconds
+0.0   0
+
+YS02001738
+1   seconds
+0.0   0
+
+YS02001739
+1   seconds
+0.0   0
+
+YS02001742
+1   seconds
+0.0   0
+
+YS02001745
+1   seconds
+0.0   0
+
+YS02001748
+1   seconds
+0.0   0
+
+YS02001751
+1   seconds
+0.0   0
+
+YS02001754
+1   seconds
+0.0   0
+
+YS02001762
+1   seconds
+0.0   0
+
+YS02001765
+1   seconds
+0.0   0
+
+YS02001767
+1   seconds
+0.0   0
+
+YS02001770
+1   seconds
+0.0   0
+
+YS02001774
+1   seconds
+0.0   0
+
+YS02001779
+1   seconds
+0.02467427584136254   0
+
+YS02001882
+1   seconds
+0.0   0
+
+YS02001884
+1   seconds
+0.0   0
+
+YS02001759
+1   seconds
+0.0   0
+
+YS02001887
+1   seconds
+-0.03535205828760398   0
+
+YS02001890
+1   seconds
+0.07714243655215966   0
+
+YS02001898
+1   seconds
+0.0   0
+
+YS02001901
+1   seconds
+-0.06511746453157485   0
+
+YS02001904
+1   seconds
+-0.07558588064536895   0
+
+YS02001907
+1   seconds
+0.5151957198893584   0
+
+YS02001910
+1   seconds
+-0.06338068747738707   0
+
+YS02001915
+1   seconds
+0.0   0
+
+YS02001918
+1   seconds
+0.0   0
+
+YS02001920
+1   seconds
+0.0   0
+
+YS02001923
+1   seconds
+0.0   0
+
+YS02001926
+1   seconds
+0.0   0
+
+YS02001929
+1   seconds
+0.0   0
+
+YS02001932
+1   seconds
+0.0   0
+
+YS02001935
+1   seconds
+0.0   0
+
+YS02001757
+1   seconds
+0.0   0
+
+YS02001895
+1   seconds
+0.0   0
+
+YS02005679
+1   seconds
+0.0   0
+
+YS02005559
+1   seconds
+0.0   0
+
+YS02005651
+1   seconds
+0.0   0
+
+YS02005670
+1   seconds
+0.0   0
+
+YS02005547
+1   seconds
+0.0   0
+
+YS02005549
+1   seconds
+0.0   0
+
+YS02005550
+1   seconds
+0.0   0
+
+YS02005551
+1   seconds
+0.0   0
+
+YS02005553
+1   seconds
+0.0   0
+
+YS02005554
+1   seconds
+0.0   0
+
+YS02005556
+1   seconds
+0.0   0
+
+YS02005557
+1   seconds
+0.0   0
+
+YS02005560
+1   seconds
+0.0   0
+
+YS02005562
+1   seconds
+0.0   0
+
+YS02005563
+1   seconds
+0.0   0
+
+YS02005565
+1   seconds
+0.0   0
+
+YS02005566
+1   seconds
+0.0   0
+
+YS02005568
+1   seconds
+0.0   0
+
+YS02005569
+1   seconds
+0.0   0
+
+YS02005598
+1   seconds
+0.024964017390128778   0
+
+YS02005600
+1   seconds
+0.017820662772507816   0
+
+YS02005602
+1   seconds
+0.017761321003353463   0
+
+YS02005603
+1   seconds
+0.0   0
+
+YS02005609
+1   seconds
+0.0   0
+
+YS02005653
+1   seconds
+0.0   0
+
+YS02005654
+1   seconds
+0.0   0
+
+YS02005655
+1   seconds
+0.0   0
+
+YS02005595
+1   seconds
+0.03624808849250817   0
+
+YS02005658
+1   seconds
+0.0   0
+
+YS02005659
+1   seconds
+0.0   0
+
+YS02005661
+1   seconds
+0.0   0
+
+YS02005662
+1   seconds
+0.0   0
+
+YS02005664
+1   seconds
+0.0   0
+
+YS02005665
+1   seconds
+0.0   0
+
+YS02005668
+1   seconds
+0.0   0
+
+YS02005667
+1   seconds
+0.0   0
+
+YS02005571
+1   seconds
+0.0   0
+
+YS02005572
+1   seconds
+0.0   0
+
+YS02005576
+1   seconds
+0.0   0
+
+YS02005577
+1   seconds
+0.0   0
+
+YS02005579
+1   seconds
+0.0012655386293277612   0
+
+YS02005580
+1   seconds
+0.0   0
+
+YS02005582
+1   seconds
+0.023014301384039954   0
+
+YS02005583
+1   seconds
+-0.03535205828760398   0
+
+YS02005612
+1   seconds
+0.0   0
+
+YS02005615
+1   seconds
+-0.016364822884057658   0
+
+YS02005616
+1   seconds
+-0.03779294032268447   0
+
+YS02005618
+1   seconds
+0.0   0
+
+YS02005619
+1   seconds
+0.0   0
+
+YS02005621
+1   seconds
+0.0   0
+
+YS02005622
+1   seconds
+0.0   0
+
+YS02005625
+1   seconds
+0.0   0
+
+YS02005627
+1   seconds
+0.0   0
+
+YS02005628
+1   seconds
+0.0   0
+
+YS02005630
+1   seconds
+0.0   0
+
+YS02005631
+1   seconds
+0.0   0
+
+YS02005633
+1   seconds
+0.0   0
+
+YS02005634
+1   seconds
+0.0   0
+
+YS02005636
+1   seconds
+0.0   0
+
+YS02005637
+1   seconds
+0.0   0
+
+YS02005639
+1   seconds
+0.0   0
+
+YS02005640
+1   seconds
+0.0   0
+
+YS02005642
+1   seconds
+0.0   0
+
+YS02005644
+1   seconds
+0.0   0
+
+YS02005645
+1   seconds
+0.0   0
+
+YS02005647
+1   seconds
+0.0007159351150625171   0
+
+YS02005648
+1   seconds
+-0.018896470161342237   0
+
+YS02005650
+1   seconds
+0.0   0
+
+YS02005671
+1   seconds
+0.0   0
+
+YS02005673
+1   seconds
+0.0   0
+
+YS02005674
+1   seconds
+0.0   0
+
+YS02005676
+1   seconds
+0.0   0
+
+YS02005680
+1   seconds
+0.0   0
+
+YS02005682
+1   seconds
+0.0   0
+
+YS02005683
+1   seconds
+0.0   0
+
+YS02005376
+1   seconds
+0.11629519358349963   0
+
+YS02005378
+1   seconds
+0.0   0
+
+YS02005381
+1   seconds
+0.16310345769967272   0
+
+YS02005624
+1   seconds
+0.0   0
+
+YS02005384
+1   seconds
+0.0   0
+
+YS02005677
+1   seconds
+0.0   0
+
+YSB1105
+1   seconds
+0.0   0
+
+YSB1106
+1   seconds
+0.0   0
+
+YSB1109
+1   seconds
+0.0   0
+
+YSB1112
+1   seconds
+0.0   0
+
+YSB1115
+1   seconds
+0.0   0
+
+YSB1118
+1   seconds
+0.0   0
+
+YSB1121
+1   seconds
+0.039803119921811334   0
+
+YSB1124
+1   seconds
+-0.053447288766297396   0
+
+YSB1128
+1   seconds
+0.0   0
+
+YSB1132
+1   seconds
+0.0   0
+
+YSB1228
+1   seconds
+0.0   0
+
+YSB1202
+1   seconds
+0.0   0
+
+YSB1135
+1   seconds
+0.0   0
+
+YSB1138
+1   seconds
+0.15851311876603233   0
+
+YSB1141
+1   seconds
+0.0   0
+
+YSB1145
+1   seconds
+0.0   0
+
+YSB1148
+1   seconds
+0.0   0
+
+YSB1151
+1   seconds
+-0.009448235080671118   0
+
+YSB1154
+1   seconds
+0.051274732437491324   0
+
+YSB1198
+1   seconds
+0.0   0
+
+YSB1192
+1   seconds
+0.0   0
+
+YSB6556
+1   seconds
+0.017171850395197457   0
+
+YSB1205
+1   seconds
+0.1674751958990581   0
+
+YSB1209
+1   seconds
+0.0035482439205266002   0
+
+YSB1212
+1   seconds
+0.0005058782915133405   0
+
+YSB1215
+1   seconds
+0.0   0
+
+YSB1218
+1   seconds
+0.03492940725141547   0
+
+YSB1221
+1   seconds
+0.0   0
+
+YSB1224
+1   seconds
+0.0   0
+
+YSB1195
+1   seconds
+0.0   0
+
+YSB1189
+1   seconds
+0.021152909557978643   0
+
+YSB1186
+1   seconds
+0.0   0
+
+YSB1183
+1   seconds
+-0.03952480221194666   0
+
+YSB1180
+1   seconds
+0.0   0
+
+YSB1177
+1   seconds
+0.0   0
+
+YSB1174
+1   seconds
+0.014845383200514447   0
+
+YSB1171
+1   seconds
+0.3256255791445145   0
+
+YS02006553
+1   seconds
+-0.07133260888917344   0
+
+YS02006561
+1   seconds
+0.0   0
+
+YS02006562
+1   seconds
+0.0   0
+
+YS02006556
+1   seconds
+0.0   0
+
+YS02006558
+1   seconds
+0.0   0
+
+YS6132
+1   seconds
+-0.1382472260208595   0
+
+YS6137
+1   seconds
+-0.04617411694707458   0
+
+YS6189
+1   seconds
+-0.07300768827852938   0
+
+YS6184
+1   seconds
+-0.05788231778269844   0
+
+YS6179
+1   seconds
+0.0   0
+
+YS6176
+1   seconds
+0.0   0
+
+YS6171
+1   seconds
+0.0   0
+
+YS6168
+1   seconds
+0.0   0
+
+YS6164
+1   seconds
+0.0   0
+
+YS6162
+1   seconds
+0.0   0
+
+YS6354
+1   seconds
+-0.08232174795038796   0
+
+YS6351
+1   seconds
+-0.044494492197098154   0
+
+YS6350
+1   seconds
+-0.03998795738677331   0
+
+YS6348
+1   seconds
+0.09746571115079415   0
+
+YS6344
+1   seconds
+-0.030228054815958104   0
+
+YS6375
+1   seconds
+-0.05088139930992067   0
+
+YS6377
+1   seconds
+0.0   0
+
+YS6381
+1   seconds
+-0.008726087961844469   0
+
+YS6386
+1   seconds
+0.0   0
+
+YS6390
+1   seconds
+0.0   0
+
+YS6394
+1   seconds
+0.0   0
+
+YS6404
+1   seconds
+-0.09151998022149711   0
+
+YS6401
+1   seconds
+-0.02308705847353729   0
+
+YS02004319
+1   seconds
+0.07482128546367162   0
+
+YS02004320
+1   seconds
+0.0   0
+
+YS02004321
+1   seconds
+0.0   0
+
+YS02004307
+1   seconds
+-0.10371562779983519   0
+
+YS02004309
+1   seconds
+0.11358896611949765   0
+
+YS02004312
+1   seconds
+0.007310169497287336   0
+
+YS02004314
+1   seconds
+0.0014484448318424358   0
+
+YS02004316
+1   seconds
+8.706411353398498e-05   0
+
+YS02001783
+1   seconds
+0.0   0
+
+YS02001784
+1   seconds
+0.0   0
+
+YS02001786
+1   seconds
+0.0   0
+
+YS02001788
+1   seconds
+0.0   0
+
+YS02001790
+1   seconds
+0.0   0
+
+YS02001791
+1   seconds
+0.0   0
+
+YS02001793
+1   seconds
+0.0   0
+
+YS02003309
+1   seconds
+-0.0508731308636998   0
+
+YS02003306
+1   seconds
+0.03183172852614151   0
+
+YS02003269
+1   seconds
+0.0   0
+
+YS02003272
+1   seconds
+0.0   0
+
+YS02003278
+1   seconds
+0.0   0
+
+YS02003281
+1   seconds
+0.047121831776744456   0
+
+YS02003284
+1   seconds
+0.0   0
+
+YS02003287
+1   seconds
+0.015968855729068723   0
+
+YS02003290
+1   seconds
+-0.04156681114160763   0
+
+YS02003294
+1   seconds
+0.059030407878062276   0
+
+YS02003275
+1   seconds
+0.0   0
+
+YS02003297
+1   seconds
+-0.049003560180274776   0
+
+YS02003300
+1   seconds
+0.00856712971163681   0
+
+YS02003303
+1   seconds
+0.006499145024737576   0
+
+YSB1227
+1   seconds
+0.0   0
+
+YS02005684
+1   seconds
+0.0   0
+
+YS02005681
+1   seconds
+0.0   0
+
+YS02005678
+1   seconds
+0.0   0
+
+YS02005675
+1   seconds
+0.0   0
+
+YS02005672
+1   seconds
+0.0   0
+
+YS02005666
+1   seconds
+0.0   0
+
+YS02005663
+1   seconds
+0.0   0
+
+YS02005660
+1   seconds
+0.0   0
+
+YS02005657
+1   seconds
+0.0   0
+
+YS02005652
+1   seconds
+0.0   0
+
+YS02005649
+1   seconds
+0.0   0
+
+YS02005646
+1   seconds
+0.0   0
+
+YS02005643
+1   seconds
+0.0   0
+
+YS02005641
+1   seconds
+0.0   0
+
+YS02005638
+1   seconds
+0.0   0
+
+YS02005635
+1   seconds
+0.0   0
+
+YS02005632
+1   seconds
+0.0   0
+
+YS02005629
+1   seconds
+0.0   0
+
+YS02005626
+1   seconds
+0.0   0
+
+YS02005623
+1   seconds
+0.0   0
+
+YS02005620
+1   seconds
+0.0   0
+
+YS02005617
+1   seconds
+-0.03597780594057596   0
+
+YSB1229
+1   seconds
+0.0   0
+
+YS02005548
+1   seconds
+0.0   0
+
+YS02005552
+1   seconds
+0.0   0
+
+YS02005555
+1   seconds
+0.0   0
+
+YS02005558
+1   seconds
+0.0   0
+
+YS02005561
+1   seconds
+0.0   0
+
+YS02005564
+1   seconds
+0.0   0
+
+YS02005567
+1   seconds
+0.0   0
+
+YS02005570
+1   seconds
+0.0   0
+
+YS02005574
+1   seconds
+0.0   0
+
+YS02005578
+1   seconds
+0.0   0
+
+WS02005134
+1   seconds
+0.0   0
+
+YS02005581
+1   seconds
+0.0   0
+
+YS02005584
+1   seconds
+0.0   0
+
+YS02005593
+1   seconds
+0.0   0
+
+YS02005596
+1   seconds
+0.0   0
+
+YS02005374
+1   seconds
+0.0   0
+
+YS02005375
+1   seconds
+-0.029121415157517816   0
+
+YS02005607
+1   seconds
+0.0   0
+
+YS02005610
+1   seconds
+0.0   0
+
+YS02005613
+1   seconds
+0.0   0
+
+HS02003172
+1   seconds
+0.0   0
+
+YS6395
+1   seconds
+0.0   0
+
+JiankangQianchi
+1   seconds
+0.0   0
+
+CaochengTiaoxuchi
+1   seconds
+0.0   0
+
