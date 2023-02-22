@@ -1,0 +1,29 @@
+#basic settinng
+DEMfile         CH5m_dem.asc
+resroot         CHtest
+dirroot         CHtest_result
+bcifile         Chaohutest.bci
+bdyfile         ChaohuModel.bdy
+manningfile     CH_manningval_5.n
+saveint         600
+massient        600
+sim_time          10800.0
+initial_tstep     1.0
+# model solvers
+dg2
+#acceleration
+#additional parameters
+#maxdepthonly 
+#output control
+#stagefile
+#depthoff
+eleoff
+#resettimeinit
+ascheader       CH_ascheader
+mint_hk
+voutput
+#qoutput
+#gaugefile
+#hazard
+
+

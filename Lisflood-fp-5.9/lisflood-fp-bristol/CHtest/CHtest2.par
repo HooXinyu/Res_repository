@@ -1,0 +1,15 @@
+resroot         CHtest
+dirroot         CHtest_result
+bcifile            ChaohuModel.bci
+bdyfile           ChaohuModel.bdy
+DEMfile         CH5m_dem.asc
+nodata_elevation  -1e4
+manningfile     CH_manningval_5.asc
+saveint         600
+massient        600
+sim_time          10800.0
+initial_tstep     1.0
+acceleration
+
+
+
