@@ -1,0 +1,17 @@
+#  assess rain 150y 
+
+resroot         150y_360
+dirroot   150y_res
+bcifile   Modelpoint.bci
+bdyfile           ./prepared_bdy/359step.bdy
+DEMfile    sa_2m.asc
+#nodata_elevation   -50
+manningfile   manninval_2.asc
+saveint   30
+massient   10
+sim_time   30.0
+initial_tstep   0.5
+acceleration
+startfile        1d2dcoupled.start
+elevoff
+hazard

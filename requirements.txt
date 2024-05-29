@@ -1,0 +1,4 @@
+gdal == 3.6.2
+pyswmm == 0.6.0
+Fiona == 1.8.21
+geopandas == 0.10.2
